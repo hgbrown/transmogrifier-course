@@ -2,6 +2,11 @@
 
 My source code for the above course.
 
+## Required Software
+
+- Java 9
+- Gradle
+
 ## Single-threaded blocking server with old java.io
 
 Implemented a single threaded blocking server using the old `java.io` packages.
